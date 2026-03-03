@@ -1,0 +1,15 @@
+# Visual Studio / build junk
+.vs/
+**/ipch/
+**/*.ipch
+**/build/
+**/bin/
+**/obj/
+
+# logs
+**/*.log
+**/*.log.txt
+
+# NuGet packages (usually should not be committed)
+**/packages/
+**/*.nupkg

@@ -1,0 +1,30 @@
+[
+    {
+        "timestamp": 55.359816551208496,
+        "sentence": "Moon"
+    },
+    {
+        "timestamp": 92.94191360473633,
+        "sentence": "sun"
+    },
+    {
+        "timestamp": 98.89863157272339,
+        "sentence": "sun"
+    },
+    {
+        "timestamp": 121.47570395469666,
+        "sentence": "earth"
+    },
+    {
+        "timestamp": 125.68653321266174,
+        "sentence": "Moon"
+    },
+    {
+        "timestamp": 151.7393307685852,
+        "sentence": "Uranus"
+    },
+    {
+        "timestamp": 240.0653076171875,
+        "sentence": "Moon"
+    }
+]
